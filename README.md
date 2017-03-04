@@ -12,3 +12,6 @@ Completed user stories:
 * [x] Optional: Remember the bill amount across app restarts (within 60 seconds)
 * [x] Optional: Use locale specific currency and currency thousands separators
 * [x] Optional: Light/dark color theme in settings view
+
+
+![Demo](http://github/RajRele/TipCalApp-3.gif)
