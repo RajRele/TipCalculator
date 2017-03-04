@@ -13,5 +13,7 @@ Completed user stories:
 * [x] Optional: Use locale specific currency and currency thousands separators
 * [x] Optional: Light/dark color theme in settings view
 
+Walkthrough
 
-![Demo](http://github/RajRele/TipCalApp-3.gif)
+![](https://github.com/RajRele/TipCalculator/blob/master/TipCalApp-3.gif)
+
