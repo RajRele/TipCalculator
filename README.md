@@ -1,5 +1,5 @@
 
-# Pre-work - *Tip Calculator*
+# *Tip Calculator*
 
 **Tipper** is a tip calculator application for iOS.
 
