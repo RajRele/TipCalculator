@@ -33,10 +33,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-1)Some environment specific challenges as I am new to MAC world.
-2)Enjoyed working on this app.
-
 ## License
 
     Copyright [2017] [Bharat Rele]
